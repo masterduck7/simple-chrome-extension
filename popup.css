@@ -1,0 +1,16 @@
+body {
+	min-width: 200px;
+	max-width: 300px;
+}
+
+h1 {
+	font-size: 18px;
+	text-align: center;
+}
+
+button {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}

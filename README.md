@@ -1,2 +1,3 @@
-# simple-chrome-extension
-A simple chrome extension
+# Quote chrome extension
+
+A simple Chrome extension to get a new quote from an external API

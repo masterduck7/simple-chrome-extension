@@ -14,3 +14,13 @@ button {
 	margin-bottom: 10px;
 	border-radius: 10px;
 }
+
+div {
+	display: flex;
+	align-items: space-between;
+	justify-content: center;
+	border: solid 1px;
+	border-radius: 10px;
+	padding: 8px;
+	text-align: center;
+}

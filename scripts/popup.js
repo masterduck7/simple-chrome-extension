@@ -5,7 +5,7 @@ const getQuote = async () => {
 		const quote = data[0]["q"];
 		console.log(quote);
 		if (quote.includes("Too many requests")) {
-			return "No quote to show";
+			return "No quote to show. Please try in a few minutes";
 		}
 		return quote;
 	} catch (error) {
